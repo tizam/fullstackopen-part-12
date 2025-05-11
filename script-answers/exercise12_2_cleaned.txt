@@ -1,0 +1,19 @@
+Script started on Sun May 11 20:03:02 2025
+%                                                                                                                            
+
+➜  script-answers [?1h=[?2004h
+
+➜  script-answers git:(main) ✗ ddocker container run -it ubuntu bashdocker container run -it ubuntu bashdocker container run -it ubuntu bash[?1l>[?2004l
+
+]2;docker container run -it ubuntu bash]1;docker[?2004h]0;root@96e7d616155d: /root@96e7d616155d:/# mkdir /usr/src/app/usr/src/app
+[?2004l
+[?2004h]0;root@96e7d616155d: /root@96e7d616155d:/# touch  /usr/src/app/index.js /usr/src/app/index.js
+[?2004l
+[?2004h]0;root@96e7d616155d: /root@96e7d616155d:/# exit
+[?2004l
+exit
+%                                                                                                                            
+➜  script-answers git:(main) ✗ [?1h=[?2004heexitexit[?1l>[?2004l
+
+]2;exit]1;exit
+Script done on Sun May 11 20:03:54 2025
